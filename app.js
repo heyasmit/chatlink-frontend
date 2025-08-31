@@ -1,6 +1,6 @@
 // ChatLink Frontend Application
 // API Configuration
-const API_BASE_URL = 'https://web-production-ee9d.up.railway.app/api';
+const API_BASE_URL = 'https://chatlink-demo-api.up.railway.app/api';
 const SOCKET_URL = 'https://web-production-ee9d.up.railway.app';
 
 class ChatApp {
